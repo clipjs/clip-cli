@@ -1,0 +1,8 @@
+#conceder permisão aos arquivos
+#chmod +x react.sh
+#chmod +x sass.sh
+
+
+gnome-terminal --execute bash -c "./react.sh ; bash"
+gnome-terminal --execute bash -c "./sass.sh ; bash"
+gnome-terminal --execute bash -c "./server.sh ; bash"
