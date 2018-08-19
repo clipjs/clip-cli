@@ -1,6 +1,6 @@
 #!/bin/bash
 	
-chmod 777 -R "./_sh"
+chmod 777 -R "./"
 
 #gnome-terminal --execute bash -c "./sh/react.sh  ; bash" # > ./logs/react.log
 gnome-terminal --execute bash -c "./_sh/sass.sh  ; bash" #  > ./logs/sass.log

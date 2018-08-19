@@ -17,3 +17,9 @@ Matheus Brito @despossivel - 15 de agosto de 2018 - Quinta-feira
 
 
 http://cssdeck.com/labs/paper-clip-icon
+
+
+
+#Referencias, API's de depencias de terceiros
+System Files: https://nodejs.org/api/fs.html
+Child Process: https://nodejs.org/api/child_process.html
