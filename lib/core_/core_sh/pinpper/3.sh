@@ -1,2 +1,2 @@
 #!/bin/bash
-cd /home/matheus/Documentos/pinpper/serve-side_0.2 && pm2 start
+cd /home/matheus/Documentos/pinpper/serve-side_0.2 && pm2 start && pm2 logs
