@@ -2,132 +2,103 @@
 <html>
 <head>
 	<title>Clip</title>
-	<style type="text/css">
-		
-		html {
-  width: 100%;
-  height: 100%;
-  background: #487c67;
-}
-body {
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  width: 100%;
-  height: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.paper {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  background: #b2ddcb;
-  width: 100%;
-  height: 50%;
-  z-index: 4;
-}
-.paper2 {
-  background: #a5cdbc;
-  transform: rotate(0.5deg);
-  z-index: 3;
-  animation: paper 2s;
-}
-.paper3 {
-  background: #97c0af;
-  transform: rotate(1deg);
-  z-index: 2;
-  animation: paper1 2s;
-}
-.paper-clip-icon,
-.paper-clip-icon::after,
-.paper-clip-icon::before {
-  border-color: #fff !important;
-}
-.paper-clip-icon {
-  margin-top: -40px;
-  width: 40px;
-  height: 40px;
-  border-bottom: none;
-  border-left: 6px solid;
-  border-right: 6px solid;
-  border-top: none;
-  position: relative;
-  z-index: 5;
-}
-.paper-clip-icon::before {
-  position: absolute;
-  content: "";
-  top: -30px;
-  right: -6px;
-  width: 29px;
-  height: 60px;
-  border-top-left-radius: 40px;
-  border-top-right-radius: 40px;
-  border-bottom: none;
-  border-left: 6px solid;
-  border-right: 6px solid;
-  border-top: 6px solid;
-}
-.paper-clip-icon::after {
-  position: absolute;
-  content: "";
-  bottom: -80px;
-  right: 5px;
-  width: 18px;
-  height: 104px;
-  border-bottom-left-radius: 40px;
-  border-bottom-right-radius: 40px;
-  border-top: none;
-  border-left: 6px solid;
-  border-right: 6px solid;
-  border-bottom: 6px solid;
-}
-
-@-webkit-keyframes paper {
-  0% {
-    transform: rotate(0deg);
-  }
-  100% {
-    transform: rotate(0.5deg);
-  }
-}
-@keyframes paper {
-  0% {
-    transform: rotate(0deg);
-  }
-  100% {
-    transform: rotate(0.5deg);
-  }
-}
-
-@-webkit-keyframes paper1 {
-  0% {
-    transform: rotate(0deg);
-  }
-  100% {
-    transform: rotate(1deg);
-  }
-}
-@keyframes paper1 {
-  0% {
-    transform: rotate(0deg);
-  }
-  100% {
-    transform: rotate(1deg);
-  }
-}
-
-	</style>
-</head>
+    <link rel="stylesheet" type="text/css" href="./index.css">
+    <link rel="stylesheet" type="text/css" href="./src/css/materialize.css">
+    <link rel="stylesheet" type="text/css" href="./src/css/icomoon/style.css">
+  </head>
 <body>
+<nav class="grey darken-4">
+    <div class="nav-wrapper">
 
-	<div class="paper-clip-icon">
-	</div>
-	<div class="paper"></div>
-	<div class="paper paper2"></div>
-	<div class="paper paper3"></div>	
+     <div class="brand-logo logoMargin">
+       <span class="icon-paperclip2"></span>
+     </div>
+      <ul id="nav-mobile" class="right hide-on-med-and-down menuMargin">
+        <li><a href="badges.html">Como usar?</a></li>
+        <li><a href="sass.html">Documentação</a></li>
+      </ul>
+    </div>
+</nav>
+
+<div class="grey darken-4"> 
+  <div class="container box"> 
+      <div class="textInit">
+        Crie ambientes de desenvolvimento com o Clip, e inicie tudo muito rapido! 
+      </div>
+
+      <div class="boxTextFooter">
+        <div class="textInitFooter">
+         <span class="textFooter">Instale com</span> <span class="icon-npm bigIcon"></span>
+        </div>
+        <div class="capoNpm">
+          npm install -g clip
+        </div>
+      </div>
+  </div>
+    <div class="container box"> 
+        <div class="white">
+          Inicie React, Sass, PM2, Docker e qualquer outro serviço necessario no ambiente de desenvolvimento do seu projeto.
+        </div>
+  </div>
+
+  <div class="container box"> 
+        <div class="white">
+         Comandos<br><br>
+         Para criar um novo ambiente ou adicionar comandos ao ambiente:<br>
+            Clip config "Nome do Projeto" "Diretorio do projeto" "Comando"<br><br>
+
+         Para Iniciar um Ambiente:<br>
+            Clip run "Nome do Projeto"<br><br>
+
+        </div>
+  </div>
+
+</div>
+<!--
+<div>
+  <div class="paper">
+     <nav class="grey darken-4">
+        <div class="paper-clip-icon "></div>
+    <div class="nav-wrapper">
+      <ul id="nav-mobile" class="right hide-on-med-and-down">
+        <li><a href="sass.html">Documentação</a></li>
+        <li><a href="badges.html">Instalar</a></li>
+      </ul>
+    </div>
+  </nav> 
+  </div>
+  <div class="paper paper2"></div>
+  <div class="paper paper3"></div>  
+</div>
+-->
+
+<footer class="page-footer grey darken-4">
+          <div class="container">
+            <div class="row">
+              <div class="col l6 s12">
+                <h5 class="white-text">Footer Content</h5>
+                <p class="grey-text text-lighten-4">You can use rows and columns here to organize your footer content.</p>
+              </div>
+              <div class="col l4 offset-l2 s12">
+                <h5 class="white-text">Links</h5>
+                <ul>
+                  <li><a class="grey-text text-lighten-3" href="#!">Link 1</a></li>
+                  <li><a class="grey-text text-lighten-3" href="#!">Link 2</a></li>
+                  <li><a class="grey-text text-lighten-3" href="#!">Link 3</a></li>
+                  <li><a class="grey-text text-lighten-3" href="#!">Link 4</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="footer-copyright">
+            <div class="container">
+            © 2014 Copyright Text
+            <a class="grey-text text-lighten-4 right" href="#!">More Links</a>
+            </div>
+          </div>
+        </footer>
+
 
 </body>
+<script type="text/javascript" src="./src/js/materialize.min.js"></script>
 </html>
