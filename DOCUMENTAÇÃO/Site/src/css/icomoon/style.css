@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?xffu5x');
-  src:  url('fonts/icomoon.eot?xffu5x#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?xffu5x') format('truetype'),
-    url('fonts/icomoon.woff?xffu5x') format('woff'),
-    url('fonts/icomoon.svg?xffu5x#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?5cr59b');
+  src:  url('fonts/icomoon.eot?5cr59b#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?5cr59b') format('truetype'),
+    url('fonts/icomoon.woff?5cr59b') format('woff'),
+    url('fonts/icomoon.svg?5cr59b#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,42 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-sass:before {
+  content: "\e916";
+  color: #c69;
+}
+.icon-react:before {
+  content: "\e915";
+  color: #61dafb;
+}
+.icon-docker:before {
+  content: "\e90b";
+  color: #1488c6;
+}
+.icon-gitlab:before {
+  content: "\e90c";
+  color: #e24329;
+}
+.icon-git1:before {
+  content: "\e90d";
+  color: #f05032;
+}
+.icon-npm:before {
+  content: "\e90e";
+  color: #cb3837;
+}
+.icon-user:before {
+  content: "\e907";
+}
+.icon-profile:before {
+  content: "\e907";
+}
+.icon-avatar:before {
+  content: "\e907";
+}
+.icon-paperclip3:before {
+  content: "\e908";
+}
 .icon-attach_file:before {
   content: "\e900";
 }
@@ -44,43 +80,6 @@
 }
 .icon-paperclip2:before {
   content: "\e906";
-}
-.icon-user:before {
-  content: "\e907";
-}
-.icon-profile:before {
-  content: "\e907";
-}
-.icon-avatar:before {
-  content: "\e907";
-}
-.icon-paperclip3:before {
-  content: "\e908";
-}
-.icon-linux:before {
-  content: "\e909";
-}
-.icon-gittip:before {
-  content: "\e90a";
-}
-.icon-gratipay:before {
-  content: "\e90a";
-}
-.icon-docker:before {
-  content: "\e90b";
-  color: #1488c6;
-}
-.icon-gitlab:before {
-  content: "\e90c";
-  color: #e24329;
-}
-.icon-git1:before {
-  content: "\e90d";
-  color: #f05032;
-}
-.icon-npm:before {
-  content: "\e90e";
-  color: #fff;
 }
 .icon-paperclip1:before {
   content: "\e90f";
@@ -129,4 +128,13 @@
 }
 .icon-paperclip:before {
   content: "\e914";
+}
+.icon-linux:before {
+  content: "\e909";
+}
+.icon-gittip:before {
+  content: "\e90a";
+}
+.icon-gratipay:before {
+  content: "\e90a";
 }

@@ -19,40 +19,57 @@
       </ul>
     </div>
 </nav>
-
 <div class="grey darken-4"> 
+  <div class="col s12">
+
   <div class="container box"> 
       <div class="textInit">
         Crie ambientes de desenvolvimento com o Clip, e inicie tudo muito rapido! 
       </div>
-
       <div class="boxTextFooter">
         <div class="textInitFooter">
-         <span class="textFooter">Instale com</span> <span class="icon-npm bigIcon"></span>
-        </div>
-        <div class="capoNpm">
-          npm install -g clip
-        </div>
+          <div class="col s12">
+            <h5>Instale com<span class="icon-npm bigIcon down"></span></h5>
       </div>
+    </div>
+  <div class="terminal_window">
+  <header>
+    <div class="red_btn button"></div>
+    <div class="green_btn button"></div>
+    <div class="yellow_btn button"></div>
+  </header>
+    <div class="terminal_window">
+      <div id="typed-strings" class="terminal_text">
+        <p>$ npm install -g clip</p>
+      </div>
+      <span id="typed"></span>
+    </div>
   </div>
-    <div class="container box"> 
-        <div class="white">
-          Inicie React, Sass, PM2, Docker e qualquer outro serviço necessario no ambiente de desenvolvimento do seu projeto.
-        </div>
-  </div>
-
+</div>
+</div>
+<div class="container box">
+</div>
+   <div class="container box">
+    <div class="col s12">
+      <div class="textInitFooter">
+     <h5>Inicie o  <span class="icon-react"></span> React-Native , <span class="icon-sass"></span> Sass ou  <span class="icon-docker"></span> Docker <br>
+      E qualquer outro serviço necessario no ambiente de desenvolvimento do seu projeto.</h5>
+   </div>
+ </div>
+ </div>
   <div class="container box"> 
         <div class="white">
          Comandos<br><br>
          Para criar um novo ambiente ou adicionar comandos ao ambiente:<br>
-            Clip config "Nome do Projeto" "Diretorio do projeto" "Comando"<br><br>
-
-         Para Iniciar um Ambiente:<br>
+          </div>
+          Clip config "Nome do Projeto" "Diretorio do projeto" "Comando"<br><br>
+        <!-- Para Iniciar um Ambiente: -->
+            
+          <div class="white">
             Clip run "Nome do Projeto"<br><br>
-
+          </div>
         </div>
   </div>
-
 </div>
 <!--
 <div>
@@ -92,7 +109,7 @@
           </div>
           <div class="footer-copyright">
             <div class="container">
-            © 2014 Copyright Text
+            © 2018 Copyright Text
             <a class="grey-text text-lighten-4 right" href="#!">More Links</a>
             </div>
           </div>
@@ -101,4 +118,6 @@
 
 </body>
 <script type="text/javascript" src="./src/js/materialize.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.8/typed.js"></script>
+<script type="text/javascript" src="./src/js/terminal.js"></script>
 </html>
