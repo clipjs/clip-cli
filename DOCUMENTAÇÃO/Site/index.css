@@ -14,6 +14,21 @@ body {
   /* align-items: center; */
   /* justify-content: center; */
 }
+
+.textBox{}
+
+.boxExemplo{
+    margin-top: 16px;
+    padding: 14px;
+    font-size: 12px;
+    background: #cccccc2e;
+    border-radius: 12px;
+}
+
+.textLeft{
+    padding-top: 28px;
+    font-weight: 700;
+}
 .textFooter{
     padding: 6px;
 }
@@ -31,12 +46,15 @@ body {
   /* margin-top: 27px; */
 }
 .textInitFooter{
-    color: #fff;
-    font-size: 18px;
+    color: #333;
+    font-size: 11px;
     text-align: center;
+    padding: 1px;
 }
 .textInit{
-    color: #fff;
+    color: #333;
+    padding: 38px;
+    padding-top: 65px;
     font-weight: 600;
     position: relative;
     font-size: 1.5rem;
@@ -44,8 +62,13 @@ body {
     align-items: center;
     /* top: 10rem; */
 }
+
+.boxFist{
+    height: 710px;
+}
 .box{
-  height: 350px;
+  height: 567px;
+
 }
 
 .menuMargin{
