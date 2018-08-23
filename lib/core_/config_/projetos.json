@@ -1,1 +1,2 @@
-[{"teste":[{"comando":"npm start","diretorio":"/home/matheus/Documentos/apps_node/pinpper"}]}]
+[{"pinpper":[{"comando":"sass src/sass:src/css --watch","diretorio":"/home/matheus/Documentos/pinpper/client-side/pinpper-.dev"},
+			 {"comando":"npm start","diretorio":"/home/matheus/Documentos/pinpper/client-side/pinpper-.dev"}]}]
