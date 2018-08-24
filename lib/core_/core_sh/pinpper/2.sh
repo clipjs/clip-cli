@@ -1,2 +1,2 @@
 #!/bin/bash
-cd /home/matheus/Documentos/pinpper/client-side/pinpper-.dev && npm start
+cd /home/matheus/Documentos/pinpper/serve-side_0.2/www && pm2 --watch start index.js

@@ -1,2 +1,2 @@
 #!/bin/bash
-cd /home/matheus/Documentos/pinpper/client-side/pinpper-.dev && sass src/sass:src/css --watch
+cd /home/matheus/Documentos/pinpper/serve-side_0.2/www && pm2 logs
