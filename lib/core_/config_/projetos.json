@@ -1,2 +1,2 @@
 [{"pinpper":[{"comando":"npm start","diretorio":"/home/matheus/Documentos/apps_node/pinpper-.dev"},
-	{"comando":"pm2 start index.js --watch","diretorio":"/home/matheus/Documentos/apps_node/pinpper_serve/www"}]}]
+	{"comando":"pm2 start index.js --watch -f","diretorio":"/home/matheus/Documentos/apps_node/pinpper_serve/www"}]}]

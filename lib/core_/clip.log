@@ -1,16 +1,1 @@
-
-> Pinpper@1.0.0 start /home/matheus/Documentos/apps_node/pinpper-.dev
-> node config && HOST=0.0.0.0 webpack-dev-server
-
-Setting android src to http://localhost:8080/index.html
-Setting ios src to http://localhost:8080/index.html
- http://0.0.0.0:8080/
-webpack result is served from /
-content is served from /home/matheus/Documentos/apps_node/pinpper-.dev/www
-404s will fallback to /index.html
-
-webpack: Compiled successfully.
-──────────┼────┼──────┼───────┼────────┼─────────┼────────┼─────┼───────────┼─────────┼──────────┤
-│ index    │ 0  │ fork │ 24645 │ online │ 1       │ 3m     │ 0%  │ 46.8 MB   │ matheus │ enabled  │
-└──────────┴────┴──────┴───────┴────────┴─────────┴────────┴─────┴───────────┴─────────┴──────────┘
- Use `pm2 show <id|name>` to get more details about an app
+sdsadasdasdasd
