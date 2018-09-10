@@ -242,3 +242,12 @@ body {
   position: absolute;
   margin-top: -17px;
 }
+
+.imgPequena{}
+.imgPequena img{
+  width: 100px;
+}
+
+.marginTop{
+    margin-top: 18px;
+}
