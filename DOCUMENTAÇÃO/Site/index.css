@@ -42,7 +42,7 @@ body {
 }
 .bigIcon{
   padding: 5px;
-  font-size: 43px;
+  font-size: 58px;
   /* margin-top: 27px; */
 }
 .textInitFooter{
@@ -240,4 +240,5 @@ body {
 }
 .down{
   position: absolute;
+  margin-top: -17px;
 }

@@ -1,0 +1,50 @@
+####TEXTO SITE
+##menu
+	Como usar?
+	Seja um colaborador
+
+##PANEL 1
+	Crie ambientes de desenvolvimento com o Clip, e inice tudo muito rapido!
+
+	Instale com NPM
+
+
+##PANEL 2
+	Inicie o  React-Native ,  Sass ou  Docker 
+	E qualquer outro serviço necessario no ambiente de desenvolvimento do seu projeto.
+
+	Como usar:
+	Para criar um novo ambiente ou adicionar comandos ao ambiente:
+
+	Para inicar um ambiente:
+	Clip run "Nome do Projeto"
+
+##PANEL 3
+	Quanto custa?
+	
+	A licença do clip custa apenas 2 reais, um valor simbolibo, para ajudar o desenvolvedor a continuar com desenvolvimento do projeto. 
+
+	Quando atingirmos uma marca de 100 mil downloads no NPM, o clip se tornarar de código aberto.
+
+	Colaborar
+	 Quero fazer um fork para colaborar
+	 Quero ajudar financeiramente
+
+
+
+### TEXTO APOIA.SE
+O clip foi desenvolvido com o intuito de ajudar o desenvolvedor, executado todos seus processos de ambiente de desenvolvimento com apenas um único comando, organizado todas suas saídas e unificando tudo. Fazendo com que o desenvolvedor ganhe tempo e organização dentro do ambiente. 
+
+
+
+ Oque o Clip consegue executar? Praticamente tudo. Reactjs, React-Native, Sass, Docker, Cordova, Nodejs, PM2 e por ai vai. 
+
+
+
+Quando usar Clip? Quando você tiver mais de um serviço a ser iniciado. 
+
+Quanto custa para usar? é grátis, mas gostaríamos que colabora-se com um valor simbólico de dois reais, para ajudar o desenvolvedor do projeto a manter o clip. 
+
+
+
+ Quando atingirmos a marca de 100 mil downloads no NPM, prometermos a tornar o Clip em código aberto. 
