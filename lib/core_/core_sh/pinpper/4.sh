@@ -1,2 +1,2 @@
 #!/bin/bash
-cd /home/matheus/Documentos/pinpper/client-side/pinpper-.dev && npm start
+cd /home/matheus/Documentos/apps_node/pinpper_serve/www && pm2 logs

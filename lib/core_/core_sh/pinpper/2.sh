@@ -1,2 +1,2 @@
 #!/bin/bash
-cd /home/matheus/Documentos/pinpper/serve-side_0.2/www && pm2 --watch start index.js
+cd /home/matheus/Documentos/apps_node/pinpper-.dev && sass src/sass:src/css --watch

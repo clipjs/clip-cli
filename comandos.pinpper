@@ -1,0 +1,8 @@
+clip config pinpper /home/matheus/Documentos/apps_node/pinpper-.dev npm start
+
+config pinpper /home/matheus/Documentos/apps_node/pinpper-.dev sass --watch src/sass:src/css
+
+clip config pinpper /home/matheus/Documentos/apps_node/pinpper_serve/www pm2 start index.js --watch
+
+
+clip config pinpper /home/matheus/Documentos/apps_node/pinpper_serve/www pm2 logs

@@ -1,52 +1,12 @@
-[TAILING] Tailing last 15 lines for [all] processes (change the value with --lines option)
-/home/matheus/.pm2/pm2.log last 15 lines:
-PM2        | [2018-08-21 12:09:15] PM2 log: PM2 version          : 2.10.2
-PM2        | [2018-08-21 12:09:15] PM2 log: Node.js version      : 9.11.2
-PM2        | [2018-08-21 12:09:15] PM2 log: Current arch         : x64
-PM2        | [2018-08-21 12:09:15] PM2 log: PM2 home             : /home/matheus/.pm2
-PM2        | [2018-08-21 12:09:15] PM2 log: PM2 PID file         : /home/matheus/.pm2/pm2.pid
-PM2        | [2018-08-21 12:09:15] PM2 log: RPC socket file      : /home/matheus/.pm2/rpc.sock
-PM2        | [2018-08-21 12:09:15] PM2 log: BUS socket file      : /home/matheus/.pm2/pub.sock
-PM2        | [2018-08-21 12:09:15] PM2 log: Application log path : /home/matheus/.pm2/logs
-PM2        | [2018-08-21 12:09:15] PM2 log: Process dump file    : /home/matheus/.pm2/dump.pm2
-PM2        | [2018-08-21 12:09:15] PM2 log: Concurrent actions   : 2
-PM2        | [2018-08-21 12:09:15] PM2 log: SIGTERM timeout      : 1600
-PM2        | [2018-08-21 12:09:15] PM2 log: ===============================================================================
-PM2        | [2018-08-21 19:54:18] PM2 log: [Watch] Start watching index
-PM2        | [2018-08-21 19:54:18] PM2 log: Starting execution sequence in -fork mode- for app name:index id:0
-PM2        | [2018-08-21 19:54:19] PM2 log: App name:index id:0 online
 
-/home/matheus/.pm2/logs/index-error-0.log last 15 lines:
-0|index    | /home/matheus/Documentos/pinpper/serve-side 0.2/www/index.js:761
-0|index    |         client.emit('checkInfos',{tipo,status:1);
-0|index    |                                                ^
-0|index    | 
-0|index    | SyntaxError: Unexpected token )
-0|index    |     at new Script (vm.js:51:7)
-0|index    |     at createScript (vm.js:136:10)
-0|index    |     at Object.runInThisContext (vm.js:197:10)
-0|index    |     at Module._compile (internal/modules/cjs/loader.js:618:28)
-0|index    |     at Object.Module._extensions..js (internal/modules/cjs/loader.js:665:10)
-0|index    |     at Module.load (internal/modules/cjs/loader.js:566:32)
-0|index    |     at tryModuleLoad (internal/modules/cjs/loader.js:506:12)
-0|index    |     at Function.Module._load (internal/modules/cjs/loader.js:498:3)
-0|index    |     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:83:21)
-0|index    |     at Module._compile (internal/modules/cjs/loader.js:654:30)
+> Pinpper@1.0.0 start /home/matheus/Documentos/apps_node/pinpper-.dev
+> node config && HOST=0.0.0.0 webpack-dev-server
 
-/home/matheus/.pm2/logs/index-out-0.log last 15 lines:
-0|index    | UPDATE dispositivos SET nomeUsuario = 'okok', usuario = 'okoko', email = 'kokok@gmail.com', numero = 'okokok'  WHERE uuid = 'dev' 
-0|index    | { nome: 'okok',
-0|index    |   usuario: 'okoko',
-0|index    |   email: 'kokok@gmail.com',
-0|index    |   numero: 'okokok',
-0|index    |   uuid: 'dev' }
-0|index    | UPDATE dispositivos SET nomeUsuario = 'okok', usuario = 'okoko', email = 'kokok@gmail.com', numero = 'okokok'  WHERE uuid = 'dev' 
-0|index    | { nome: 'okok',
-0|index    |   usuario: 'okoko',
-0|index    |   email: 'kokok@gmail.com',
-0|index    |   numero: 'okokok',
-0|index    |   uuid: 'dev' }
-0|index    | UPDATE dispositivos SET nomeUsuario = 'okok', usuario = 'okoko', email = 'kokok@gmail.com', numero = 'okokok'  WHERE uuid = 'dev' 
-0|index    | conectou
-0|index    | conectou
+Setting android src to http://localhost:8080/index.html
+Setting ios src to http://localhost:8080/index.html
+ http://0.0.0.0:8080/
+webpack result is served from /
+content is served from /home/matheus/Documentos/apps_node/pinpper-.dev/www
+404s will fallback to /index.html
 
+webpack: Compiled successfully.
