@@ -1,25 +1,44 @@
-Clip CLI = Agrupador ou Gereciador de Console 
+####TEXTO SITE
+##menu
+	Como usar?
+	Seja um colaborador!
 
-#requisito de usuario
-desenvolver uma aplicação capaz de gerenciar a saida de console de varios tipos de services. 
-Exemplo: em meu projeto pessoal tenho uma aplicação sendo desenvolvida utilizando reactjs, sass do lado client, e Nodejs do lado servidor.
-Sempre que preciso iniciar meu ambiente de desenvolvimento, preciso iniciar o server, colocar a compilação do sass em esculta, e iniciar o server do react para emular a aplicação do Client. 
+##PANEL 1
+	Crie ambientes de desenvolvimento com o CLIP, e inicie tudo muito rápido!
 
-#requisito de sistema
-Para que o software seja flexivel será necessario que o usuario configure de acordo com os requisitos do sistema em questão, ou seja,
-será preciso obter do usuario quais são os comandos ele deseja roda e em qual diretorio. 
+	Instale com NPM
 
 #requisito não funcional
 O software será desenvolvido em nodejs, e será distribuido pelo NPM como um nome module(CLI) global.
 
 
-Matheus Brito @despossivel - 15 de agosto de 2018 - Quinta-feira
+##PANEL 2
+	Inicie o React-Native, Sass ou Docker 
+	e qualquer outro serviço necessário no ambiente de desenvolvimento do seu projeto.
+
+	COMO USAR
+	Para criar um novo ambiente ou adicionar comandos ao ambiente:
+
+	Para iniciar um ambiente:
+	Clip run "Nome do Projeto"
+
+##PANEL 3
+	Quanto custa?
+	
+	A licença do Clip custa apenas R$ 2, um valor simbólico, para nos ajudar no desenvolvimento do projeto. 
+
+	Quando atingirmos uma marca de 100 mil downloads no NPM, o Clip se tornará código aberto.
+
+	Colaborar
+	 Quero fazer um fork para colaborar
+	 Quero ajudar financeiramente
 
 
-http://cssdeck.com/labs/paper-clip-icon
 
+### TEXTO APOIA.SE
+O CLIP foi elaborado com o intuito de ajudar o desenvolvedor ao executando todos seus processos de ambiente de desenvolvimento com apenas um único comando ao organizar todas suas saídas, unificando tudo. Isso faz com que o desenvolvedor ganhe tempo e uma melhor organização dentro do ambiente. 
+O que o Clip consegue executar? Praticamente tudo. Reactjs, React-Native, Sass, Docker, Cordova, Nodejs, PM2 e por aí vai...
+Quando usar Clip? Quando você tiver mais de um serviço a ser iniciado.
+Quanto custa para usar? É gratuito, mas gostaríamos de uma colaboração com um valor simbólico de dois reais para contribuir no desenvolvimento do projeto para manter o Clip.
 
-
-#Referencias, API's de depencias de terceiros
-System Files: https://nodejs.org/api/fs.html
-Child Process: https://nodejs.org/api/child_process.html
+Quando atingirmos a marca de 100 mil downloads no NPM, nos comprometemos em tornar o Clip código aberto.
