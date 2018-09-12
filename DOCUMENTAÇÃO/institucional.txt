@@ -1,30 +1,30 @@
 ####TEXTO SITE
 ##menu
 	Como usar?
-	Seja um colaborador
+	Seja um colaborador!
 
 ##PANEL 1
-	Crie ambientes de desenvolvimento com o Clip, e inice tudo muito rapido!
+	Crie ambientes de desenvolvimento com o CLIP, e inicie tudo muito rápido!
 
 	Instale com NPM
 
 
 ##PANEL 2
-	Inicie o  React-Native ,  Sass ou  Docker 
-	E qualquer outro serviço necessario no ambiente de desenvolvimento do seu projeto.
+	Inicie o React-Native, Sass ou Docker 
+	e qualquer outro serviço necessário no ambiente de desenvolvimento do seu projeto.
 
-	Como usar:
+	COMO USAR
 	Para criar um novo ambiente ou adicionar comandos ao ambiente:
 
-	Para inicar um ambiente:
+	Para iniciar um ambiente:
 	Clip run "Nome do Projeto"
 
 ##PANEL 3
 	Quanto custa?
 	
-	A licença do clip custa apenas 2 reais, um valor simbolibo, para ajudar o desenvolvedor a continuar com desenvolvimento do projeto. 
+	A licença do Clip custa apenas R$ 2, um valor simbólico, para nos ajudar no desenvolvimento do projeto. 
 
-	Quando atingirmos uma marca de 100 mil downloads no NPM, o clip se tornarar de código aberto.
+	Quando atingirmos uma marca de 100 mil downloads no NPM, o Clip se tornará código aberto.
 
 	Colaborar
 	 Quero fazer um fork para colaborar
@@ -33,18 +33,9 @@
 
 
 ### TEXTO APOIA.SE
-O clip foi desenvolvido com o intuito de ajudar o desenvolvedor, executado todos seus processos de ambiente de desenvolvimento com apenas um único comando, organizado todas suas saídas e unificando tudo. Fazendo com que o desenvolvedor ganhe tempo e organização dentro do ambiente. 
+O CLIP foi elaborado com o intuito de ajudar o desenvolvedor ao executando todos seus processos de ambiente de desenvolvimento com apenas um único comando ao organizar todas suas saídas, unificando tudo. Isso faz com que o desenvolvedor ganhe tempo e uma melhor organização dentro do ambiente. 
+O que o Clip consegue executar? Praticamente tudo. Reactjs, React-Native, Sass, Docker, Cordova, Nodejs, PM2 e por aí vai...
+Quando usar Clip? Quando você tiver mais de um serviço a ser iniciado.
+Quanto custa para usar? É gratuito, mas gostaríamos de uma colaboração com um valor simbólico de dois reais para contribuir no desenvolvimento do projeto para manter o Clip.
 
-
-
- Oque o Clip consegue executar? Praticamente tudo. Reactjs, React-Native, Sass, Docker, Cordova, Nodejs, PM2 e por ai vai. 
-
-
-
-Quando usar Clip? Quando você tiver mais de um serviço a ser iniciado. 
-
-Quanto custa para usar? é grátis, mas gostaríamos que colabora-se com um valor simbólico de dois reais, para ajudar o desenvolvedor do projeto a manter o clip. 
-
-
-
- Quando atingirmos a marca de 100 mil downloads no NPM, prometermos a tornar o Clip em código aberto. 
+Quando atingirmos a marca de 100 mil downloads no NPM, nos comprometemos em tornar o Clip código aberto.
