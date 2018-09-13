@@ -1,1 +1,23 @@
-sdsadasdasdasd
+[PM2] Applying action restartProcessId on app [index](ids: 0,1)
+[PM2] [index](1) ✓
+[PM2] [index](0) ✓
+[PM2] Process successfully started
+┌──────────┬────┬──────┬───────┬────────┬─────────┬────────┬─────┬───────────┬─────────┬──────────┐
+│ App name │ id │ mode │ pid   │ status │ restart │ uptime │ cpu │ mem       │ user    │ watching │
+├──────────┼────┼──────┼───────┼────────┼─────────┼────────┼─────┼───────────┼─────────┼──────────┤
+│ index    │ 0  │ fork │ 15482 │ online │ 1       │ 0s     │ 0%  │ 22.1 MB   │ matheus │ disabled │
+│ index    │ 1  │ fork │ 15446 │ online │ 15      │ 0s     │ 86% │ 34.0 MB   │ matheus │ disabled │
+└──────────┴────┴──────┴───────┴────────┴─────────┴────────┴─────┴───────────┴─────────┴──────────┘
+ Use `pm2 show <id|name>` to get more details about an app
+
+> Pinpper@1.0.0 start /home/matheus/Documentos/apps_node/pinpper-.dev
+> node config && HOST=0.0.0.0 webpack-dev-server
+
+Setting android src to http://localhost:8080/index.html
+Setting ios src to http://localhost:8080/index.html
+ http://0.0.0.0:8080/
+webpack result is served from /
+content is served from /home/matheus/Documentos/apps_node/pinpper-.dev/www
+404s will fallback to /index.html
+
+webpack: Compiled successfully.
