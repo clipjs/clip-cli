@@ -1,1 +1,2 @@
-[{"pinpper":[{"comando":"pm2 start index.js --watch -f","diretorio":"/home/matheus/Documentos/apps_node/pinpper_serve/www"}]},{"360tours":[{"comando":"npm start","diretorio":"/home/matheus/Documentos/apps_experimentais/redencao360/www"}]}]
+[{"pinpper":[{"comando":"ls","diretorio":"/home/matheus/Documentos/apps_node/pinpper_serve/www"}]},
+	{"360tours":[{"comando":"npm start","diretorio":"/home/matheus/Documentos/apps_experimentais/redencao360/www"},{"comando":"pwd","diretorio":"./"}]}]
