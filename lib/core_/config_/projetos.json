@@ -1,1 +1,2 @@
-[{"pinpper":[null,{"comando":"pwd","diretorio":"./"}]},{"360tours":[{"comando":"npm start","diretorio":"/home/matheus/Documentos/apps_experimentais/redencao360/www"}]},{"pinpper":[{"comando":"pwd","diretorio":"./"},{"comando":"pwd","diretorio":"./"}]}]
+[{"mac":[{"comando":"nodemon","diretorio":"/home/matheus/Documentos/dev_react/API_MeuAmigoCaminhoneiro"},
+		{"comando":"npm start","diretorio":"/home/matheus/Documentos/dev_react/react_MeuAmigoCaminhoneiro"}]}]
