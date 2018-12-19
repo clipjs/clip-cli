@@ -1,2 +1,1 @@
-[{"beta":[{"comando":"npm start","diretorio":"/home/matheus/Documentos/workspace/MyAppName"},
-    {"comando":"sass --watch src/sass/index.scss:src/css/index.css","diretorio":"/home/matheus/Documentos/workspace/MyAppName"}]}]
+[{"beta__":[{"comando":"sass --watch src/sass/index.scss:src/css/index.css","diretorio":"/home/matheus/Documentos/workspace/MyAppName"},{"comando":"sass --watch src/sass/index.scss:src/css/index.css","diretorio":"/home/matheus/Documentos/workspace/MyAppName"}]},{"beta":[{"comando":"sass --watch src/sass/index.scss:src/css/index.css","diretorio":"/home/matheus/Documentos/workspace/MyAppName"},{"comando":"sass --watch src/sass/index.scss:src/css/index.css","diretorio":"/home/matheus/Documentos/workspace/MyAppName"}]}]

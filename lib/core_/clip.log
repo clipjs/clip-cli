@@ -47,3 +47,31 @@ webpack: Compiling...
 webpack: wait until bundle finished: /cordova.js
 
 webpack: Compiled successfully.
+
+> BETA@1.0.0 start /home/matheus/Documentos/workspace/MyAppName
+> node config && HOST=0.0.0.0 webpack-dev-server
+
+Setting android src to http://10.0.2.2:8080/index.html
+Setting ios src to http://localhost:8080/index.html
+ http://0.0.0.0:8080/
+webpack result is served from /
+content is served from /home/matheus/Documentos/workspace/MyAppName/www
+404s will fallback to /index.html
+webpack: wait until bundle finished: /
+
+webpack: Compiled successfully.
+>>> Sass is watching for changes. Press Ctrl-C to stop.
+
+> BETA@1.0.0 start /home/matheus/Documentos/workspace/MyAppName
+> node config && HOST=0.0.0.0 webpack-dev-server
+
+Setting android src to http://10.0.2.2:8080/index.html
+Setting ios src to http://localhost:8080/index.html
+ http://0.0.0.0:8080/
+webpack result is served from /
+content is served from /home/matheus/Documentos/workspace/MyAppName/www
+404s will fallback to /index.html
+webpack: wait until bundle finished: /index.html
+
+webpack: Compiled successfully.
+>>> Sass is watching for changes. Press Ctrl-C to stop.
