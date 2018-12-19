@@ -1,2 +1,2 @@
-[{"mac":[{"comando":"nodemon","diretorio":"/home/matheus/Documentos/dev_react/API_MeuAmigoCaminhoneiro"},
-		{"comando":"npm start","diretorio":"/home/matheus/Documentos/dev_react/react_MeuAmigoCaminhoneiro"}]}]
+[{"beta":[{"comando":"npm start","diretorio":"/home/matheus/Documentos/workspace/MyAppName"},
+    {"comando":"sass --watch src/sass/index.scss:src/css/index.css","diretorio":"/home/matheus/Documentos/workspace/MyAppName"}]}]

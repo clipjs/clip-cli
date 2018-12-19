@@ -1,0 +1,49 @@
+
+> BETA@1.0.0 start /home/matheus/Documentos/workspace/MyAppName
+> node config && HOST=0.0.0.0 webpack-dev-server
+
+Setting android src to http://10.0.2.2:8080/index.html
+Setting ios src to http://localhost:8080/index.html
+ http://0.0.0.0:8080/
+webpack result is served from /
+content is served from /home/matheus/Documentos/workspace/MyAppName/www
+404s will fallback to /index.html
+
+> BETA@1.0.0 start /home/matheus/Documentos/workspace/MyAppName
+> node config && HOST=0.0.0.0 webpack-dev-server
+
+Setting android src to http://10.0.2.2:8080/index.html
+Setting ios src to http://localhost:8080/index.html
+ http://0.0.0.0:8080/
+webpack result is served from /
+content is served from /home/matheus/Documentos/workspace/MyAppName/www
+404s will fallback to /index.html
+webpack: wait until bundle finished: /
+
+webpack: Compiled successfully.
+>>> Sass is watching for changes. Press Ctrl-C to stop.
+      write src/css/index.css
+      write src/css/index.css.map
+
+> BETA@1.0.0 start /home/matheus/Documentos/workspace/MyAppName
+> node config && HOST=0.0.0.0 webpack-dev-server
+
+Setting android src to http://10.0.2.2:8080/index.html
+Setting ios src to http://localhost:8080/index.html
+>>> Change detected to: src/sass/_globals.scss
+      write src/css/index.css
+      write src/css/index.css.map
+ http://0.0.0.0:8080/
+webpack result is served from /
+content is served from /home/matheus/Documentos/workspace/MyAppName/www
+404s will fallback to /index.html
+webpack: wait until bundle finished: /
+>>> Change detected to: src/sass/_globals.scss
+      write src/css/index.css
+      write src/css/index.css.map
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /cordova.js
+
+webpack: Compiled successfully.
