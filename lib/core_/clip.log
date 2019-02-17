@@ -1,13 +1,21 @@
-[33m[nodemon] 1.18.10[39m
-[33m[nodemon] to restart at any time, enter `rs`[39m
-[33m[nodemon] watching: *.*[39m
-[32m[nodemon] starting `node index.js`[39m
 
 > helloworld@1.0.0 start /home/matheus/Documentos/workspace/clickMinuto/App
 > node config && HOST=0.0.0.0 webpack-dev-server
 
+
+> helloworld@1.0.0 sass /home/matheus/Documentos/workspace/clickMinuto/App
+> sass src/sass/index.scss:src/css/index.css --watch
+
 Setting android src to http://10.0.2.2:8080/index.html
 Setting ios src to http://localhost:8080/index.html
+[33m[nodemon] 1.18.10[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node index.js`[39m
+ http://0.0.0.0:8080/
+webpack result is served from /
+content is served from /home/matheus/Documentos/workspace/clickMinuto/App/www
+404s will fallback to /index.html
 consign v0.1.6 Initialized in /home/matheus/Documentos/workspace/clickMinuto/Serve
 + ./server/routes/leilao.js
 + ./server/routes/leiloes.js
@@ -24,16 +32,464 @@ consign v0.1.6 Initialized in /home/matheus/Documentos/workspace/clickMinuto/Ser
 + ./server/controllers/pagamento.js
 + ./server/controllers/usuario.js
 SERVER ON-LINE
- http://0.0.0.0:8080/
-webpack result is served from /
-content is served from /home/matheus/Documentos/workspace/clickMinuto/App/www
-404s will fallback to /index.html
+webpack: wait until bundle finished: /
 webpack: wait until bundle finished: /
 
 webpack: Compiled successfully.
 webpack: Compiling...
 
 webpack: Compiled successfully.
+webpack: Compiling...
+
+webpack: Compiled successfully.
+webpack: Compiling...
+
+webpack: Compiled successfully.
+webpack: Compiling...
+
+webpack: Compiled successfully.
+webpack: Compiling...
+
+webpack: Compiled successfully.
+webpack: Compiling...
+
+webpack: Compiled successfully.
+webpack: Compiling...
+
+webpack: Compiled successfully.
+webpack: Compiling...
+
+webpack: Compiled successfully.
+webpack: Compiling...
+
+webpack: Compiled successfully.
+webpack: Compiling...
+
+webpack: Compiled successfully.
+webpack: Compiling...
+
+webpack: Compiled successfully.
+webpack: Compiling...
+
+webpack: Compiled successfully.
+webpack: Compiling...
+
+webpack: Compiled successfully.
+webpack: Compiling...
+
+webpack: Compiled successfully.
+webpack: Compiling...
+
+webpack: Compiled successfully.
+webpack: Compiling...
+
+webpack: Compiled successfully.
+webpack: Compiling...
+
+webpack: Compiled successfully.
+webpack: Compiling...
+
+webpack: Compiled successfully.
+webpack: Compiling...
+
+webpack: Compiled successfully.
+webpack: Compiling...
+
+webpack: Compiled successfully.
+webpack: Compiling...
+
+webpack: Compiled successfully.
+webpack: Compiling...
+
+webpack: Compiled successfully.
+webpack: Compiling...
+
+webpack: Compiled successfully.
+webpack: Compiling...
+
+webpack: Compiled successfully.
+webpack: Compiling...
+
+webpack: Compiled successfully.
+webpack: Compiling...
+
+webpack: Compiled successfully.
+webpack: Compiling...
+
+webpack: Compiled successfully.
+>>> Sass is watching for changes. Press Ctrl-C to stop.
+>>> Change detected to: src/sass/index.scss
+webpack: Compiling...
+      write src/css/index.css
+      write src/css/index.css.map
+
+webpack: Compiled successfully.
+>>> Change detected to: src/sass/index.scss
+      error src/sass/index.scss (Line 62: Invalid CSS after "...lex-grow: 1; */": expected "{", was "/* flex-shrink: 0;")
+webpack: Compiling...
+
+webpack: Compiled successfully.
+>>> Change detected to: src/sass/index.scss
+      error src/sass/index.scss (Line 62: Invalid CSS after "... 0  !important;": expected "}", was "/* flex-shrink: 0;")
+webpack: Compiling...
+
+webpack: Compiled successfully.
+>>> Change detected to: src/sass/index.scss
+      error src/sass/index.scss (Line 62: Invalid CSS after "... 0  !important;": expected "}", was "/* flex-shrink: 0;")
+webpack: Compiling...
+
+webpack: Compiled successfully.
+>>> Change detected to: src/sass/index.scss
+webpack: Compiling...
+      write src/css/index.css
+      write src/css/index.css.map
+
+webpack: Compiled successfully.
+>>> Change detected to: src/sass/index.scss
+      error src/sass/index.scss (Line 63: Invalid CSS after "...splay: flex; */": expected "{", was "}")
+webpack: Compiling...
+
+webpack: Compiled successfully.
+>>> Change detected to: src/sass/index.scss
+webpack: Compiling...
+      write src/css/index.css
+      write src/css/index.css.map
+
+webpack: Compiled successfully.
+>>> Change detected to: src/sass/index.scss
+webpack: Compiling...
+      write src/css/index.css
+      write src/css/index.css.map
+
+webpack: Compiled successfully.
+>>> Change detected to: src/sass/index.scss
+webpack: Compiling...
+      write src/css/index.css
+      write src/css/index.css.map
+
+webpack: Compiled successfully.
+>>> Change detected to: src/sass/index.scss
+webpack: Compiling...
+      write src/css/index.css
+      write src/css/index.css.map
+>>> Change detected to: src/sass/index.scss
+      write src/css/index.css
+      write src/css/index.css.map
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /index.css.map
+
+webpack: Compiled successfully.
+>>> Change detected to: src/sass/index.scss
+webpack: Compiling...
+      write src/css/index.css
+      write src/css/index.css.map
+
+webpack: Compiled successfully.
+>>> Change detected to: src/sass/index.scss
+webpack: Compiling...
+      write src/css/index.css
+      write src/css/index.css.map
+
+webpack: Compiled successfully.
+>>> Change detected to: src/sass/index.scss
+webpack: Compiling...
+      write src/css/index.css
+      write src/css/index.css.map
+
+webpack: Compiled successfully.
+>>> Change detected to: src/sass/index.scss
+webpack: Compiling...
+      write src/css/index.css
+      write src/css/index.css.map
+
+webpack: Compiled successfully.
+>>> Change detected to: src/sass/index.scss
+webpack: Compiling...
+      write src/css/index.css
+      write src/css/index.css.map
+
+webpack: Compiled successfully.
+>>> Change detected to: src/sass/index.scss
+webpack: Compiling...
+      write src/css/index.css
+      write src/css/index.css.map
+
+webpack: Compiled successfully.
+>>> Change detected to: src/sass/index.scss
+webpack: Compiling...
+      write src/css/index.css
+      write src/css/index.css.map
+
+webpack: Compiled successfully.
+>>> Change detected to: src/sass/index.scss
+webpack: Compiling...
+      write src/css/index.css
+      write src/css/index.css.map
+
+webpack: Compiled successfully.
+>>> Change detected to: src/sass/index.scss
+webpack: Compiling...
+      write src/css/index.css
+      write src/css/index.css.map
+
+webpack: Compiled successfully.
+>>> Change detected to: src/sass/index.scss
+webpack: Compiling...
+      write src/css/index.css
+      write src/css/index.css.map
+
+webpack: Compiled successfully.
+webpack: Compiling...
+
+webpack: Compiled successfully.
+webpack: Compiling...
+
+webpack: Compiled successfully.
+webpack: Compiling...
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: //logo.png
+
+webpack: Compiled successfully.
+webpack: Compiling...
+
+webpack: Compiled successfully.
+webpack: Compiling...
+
+webpack: Compiled successfully.
+webpack: Compiling...
+
+webpack: Compiled successfully.
+webpack: Compiling...
+
+webpack: Compiled successfully.
+webpack: Compiling...
+
+webpack: Compiled successfully.
+>>> Change detected to: src/sass/index.scss
+webpack: Compiling...
+      write src/css/index.css
+      write src/css/index.css.map
+
+webpack: Compiled successfully.
+>>> Change detected to: src/sass/index.scss
+webpack: Compiling...
+      write src/css/index.css
+      write src/css/index.css.map
+
+webpack: Compiled successfully.
+>>> Change detected to: src/sass/index.scss
+webpack: Compiling...
+      write src/css/index.css
+      write src/css/index.css.map
+
+webpack: Compiled successfully.
+>>> Change detected to: src/sass/index.scss
+webpack: Compiling...
+      write src/css/index.css
+      write src/css/index.css.map
+
+webpack: Compiled successfully.
+>>> Change detected to: src/sass/index.scss
+webpack: Compiling...
+      write src/css/index.css
+      write src/css/index.css.map
+
+webpack: Compiled successfully.
+webpack: Compiling...
+
+webpack: Compiled successfully.
+>>> Change detected to: src/sass/index.scss
+webpack: Compiling...
+      write src/css/index.css
+      write src/css/index.css.map
+
+webpack: Compiled successfully.
+>>> Change detected to: src/sass/index.scss
+webpack: Compiling...
+      write src/css/index.css
+      write src/css/index.css.map
+
+webpack: Compiled successfully.
+>>> Change detected to: src/sass/index.scss
+webpack: Compiling...
+      write src/css/index.css
+      write src/css/index.css.map
+
+webpack: Compiled successfully.
+>>> Change detected to: src/sass/index.scss
+webpack: Compiling...
+      write src/css/index.css
+      write src/css/index.css.map
+
+webpack: Compiled successfully.
+>>> Change detected to: src/sass/index.scss
+webpack: Compiling...
+      write src/css/index.css
+      write src/css/index.css.map
+
+webpack: Compiled successfully.
+>>> Change detected to: src/sass/index.scss
+webpack: Compiling...
+      write src/css/index.css
+      write src/css/index.css.map
+
+webpack: Compiled successfully.
+>>> Change detected to: src/sass/index.scss
+webpack: Compiling...
+      write src/css/index.css
+      write src/css/index.css.map
+
+webpack: Compiled successfully.
+>>> Change detected to: src/sass/index.scss
+webpack: Compiling...
+      write src/css/index.css
+      write src/css/index.css.map
+
+webpack: Compiled successfully.
+>>> Change detected to: src/sass/index.scss
+webpack: Compiling...
+      write src/css/index.css
+      write src/css/index.css.map
+
+webpack: Compiled successfully.
+>>> Change detected to: src/sass/index.scss
+webpack: Compiling...
+      write src/css/index.css
+      write src/css/index.css.map
+
+webpack: Compiled successfully.
+>>> Change detected to: src/sass/index.scss
+      error src/sass/index.scss (Line 148: Invalid CSS after "        font-size": expected ";", was ": 12px;")
+webpack: Compiling...
+
+webpack: Compiled successfully.
+>>> Change detected to: src/sass/index.scss
+      error src/sass/index.scss (Line 148: Invalid CSS after "        font-size": expected ";", was ": 12px;")
+webpack: Compiling...
+
+webpack: Compiled successfully.
+>>> Change detected to: src/sass/index.scss
+webpack: Compiling...
+      write src/css/index.css
+      write src/css/index.css.map
+>>> Change detected to: src/sass/index.scss
+      write src/css/index.css
+      write src/css/index.css.map
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /index.css.map
+
+webpack: Compiled successfully.
+>>> Change detected to: src/sass/index.scss
+webpack: Compiling...
+      write src/css/index.css
+      write src/css/index.css.map
+
+webpack: Compiled successfully.
+webpack: Compiling...
+
+webpack: Compiled successfully.
+webpack: Compiling...
+
+webpack: Compiled successfully.
+webpack: Compiling...
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: Failed to compile.
+webpack: Compiling...
+
+webpack: Compiled successfully.
+webpack: Compiling...
+
+webpack: Compiled successfully.
+webpack: Compiling...
+
+webpack: Compiled successfully.
+>>> Change detected to: src/sass/index.scss
+webpack: Compiling...
+      write src/css/index.css
+      write src/css/index.css.map
+>>> Change detected to: src/sass/index.scss
+      write src/css/index.css
+      write src/css/index.css.map
+
+webpack: Compiled successfully.
+webpack: Compiling...
+
+webpack: Compiled successfully.
+>>> Change detected to: src/sass/index.scss
+webpack: Compiling...
+      write src/css/index.css
+      write src/css/index.css.map
+
+webpack: Compiled successfully.
+webpack: Compiling...
+
+webpack: Compiled successfully.
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+consign v0.1.6 Initialized in /home/matheus/Documentos/workspace/clickMinuto/Serve
++ ./server/routes/leilao.js
++ ./server/routes/leiloes.js
++ ./server/routes/pagamento.js
++ ./server/routes/usuario.js
++ ./config/dbConnection.js
++ ./config/jwt.js
++ ./config/globals.js
++ ./config/cKeys.js
++ ./config/BLOW.js
++ ./server/models/mongodb.js
++ ./server/controllers/cielo.js
++ ./server/controllers/leiloes.js
++ ./server/controllers/pagamento.js
++ ./server/controllers/usuario.js
+SERVER ON-LINE
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+consign v0.1.6 Initialized in /home/matheus/Documentos/workspace/clickMinuto/Serve
++ ./server/routes/leilao.js
++ ./server/routes/leiloes.js
++ ./server/routes/pagamento.js
++ ./server/routes/usuario.js
++ ./config/dbConnection.js
++ ./config/jwt.js
++ ./config/globals.js
++ ./config/cKeys.js
++ ./config/BLOW.js
++ ./server/models/mongodb.js
++ ./server/controllers/cielo.js
++ ./server/controllers/leiloes.js
++ ./server/controllers/pagamento.js
++ ./server/controllers/usuario.js
+SERVER ON-LINE
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+consign v0.1.6 Initialized in /home/matheus/Documentos/workspace/clickMinuto/Serve
++ ./server/routes/leilao.js
++ ./server/routes/leiloes.js
++ ./server/routes/pagamento.js
++ ./server/routes/usuario.js
++ ./config/dbConnection.js
++ ./config/jwt.js
++ ./config/globals.js
++ ./config/cKeys.js
++ ./config/BLOW.js
++ ./server/models/mongodb.js
++ ./server/controllers/cielo.js
++ ./server/controllers/leiloes.js
++ ./server/controllers/pagamento.js
++ ./server/controllers/usuario.js
+SERVER ON-LINE
 [32m[nodemon] restarting due to changes...[39m
 [32m[nodemon] starting `node index.js`[39m
 consign v0.1.6 Initialized in /home/matheus/Documentos/workspace/clickMinuto/Serve

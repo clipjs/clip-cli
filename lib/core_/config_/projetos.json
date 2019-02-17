@@ -1,1 +1,12 @@
-[{"beta":[{"comando":"npm start","diretorio":"/home/matheus/Documentos/workspace/MyAppName"},{"comando":"sass --watch src/sass/index.scss:src/css/index.css","diretorio":"/home/matheus/Documentos/workspace/MyAppName"}]},{"finantruck":[{"comando":"npm start","diretorio":"/home/matheus/Documentos/workspace/FinanTruck/react_meuamigocaminhoneiro"},{"comando":"sass --watch src/sass/index.scss:src/css/index.css","diretorio":"/home/matheus/Documentos/workspace/FinanTruck/react_meuamigocaminhoneiro"},{"comando":"nodemon","diretorio":"/home/matheus/Documentos/workspace/FinanTruck/api_meuamigocaminhoneiro"}]},{"teste":[{"comando":"pwd","diretorio":"./"}]},{"clickminuto":[{"comando":"npm start","diretorio":"/home/matheus/Documentos/workspace/clickMinuto/App"},{"comando":"npm dev run","diretorio":"/home/matheus/Documentos/workspace/clickMinuto/Serve"}]},{"centavus":[{"comando":"nodemon","diretorio":"/home/matheus/Documentos/workspace/clickMinuto/Serve"},{"comando":"npm start","diretorio":"/home/matheus/Documentos/workspace/clickMinuto/App"}]}]
+[{"beta":[{"comando":"npm start","diretorio":"/home/matheus/Documentos/workspace/MyAppName"},
+    {"comando":"sass --watch src/sass/index.scss:src/css/index.css","diretorio":"/home/matheus/Documentos/workspace/MyAppName"}]},
+    {"finantruck":[{"comando":"npm start","diretorio":"/home/matheus/Documentos/workspace/FinanTruck/react_meuamigocaminhoneiro"},
+        {"comando":"sass --watch src/sass/index.scss:src/css/index.css",
+            "diretorio":"/home/matheus/Documentos/workspace/FinanTruck/react_meuamigocaminhoneiro"},{"comando":"nodemon",
+                "diretorio":"/home/matheus/Documentos/workspace/FinanTruck/api_meuamigocaminhoneiro"}]},
+                {"teste":[{"comando":"pwd","diretorio":"./"}]},{"clickminuto":[{"comando":"npm start",
+                    "diretorio":"/home/matheus/Documentos/workspace/clickMinuto/App"},{"comando":"npm dev run",
+                        "diretorio":"/home/matheus/Documentos/workspace/clickMinuto/Serve"}]},
+                        {"centavus":[{"comando":"nodemon","diretorio":"/home/matheus/Documentos/workspace/clickMinuto/Serve"},
+                            {"comando":"npm start","diretorio":"/home/matheus/Documentos/workspace/clickMinuto/App"},
+                            {"comando":"npm run sass","diretorio":"/home/matheus/Documentos/workspace/clickMinuto/App"}]}]
