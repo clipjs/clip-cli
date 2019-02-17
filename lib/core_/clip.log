@@ -1,77 +1,54 @@
+[33m[nodemon] 1.18.10[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node index.js`[39m
 
-> BETA@1.0.0 start /home/matheus/Documentos/workspace/MyAppName
+> helloworld@1.0.0 start /home/matheus/Documentos/workspace/clickMinuto/App
 > node config && HOST=0.0.0.0 webpack-dev-server
 
 Setting android src to http://10.0.2.2:8080/index.html
 Setting ios src to http://localhost:8080/index.html
+consign v0.1.6 Initialized in /home/matheus/Documentos/workspace/clickMinuto/Serve
++ ./server/routes/leilao.js
++ ./server/routes/leiloes.js
++ ./server/routes/pagamento.js
++ ./server/routes/usuario.js
++ ./config/dbConnection.js
++ ./config/jwt.js
++ ./config/globals.js
++ ./config/cKeys.js
++ ./config/BLOW.js
++ ./server/models/mongodb.js
++ ./server/controllers/cielo.js
++ ./server/controllers/leiloes.js
++ ./server/controllers/pagamento.js
++ ./server/controllers/usuario.js
+SERVER ON-LINE
  http://0.0.0.0:8080/
 webpack result is served from /
-content is served from /home/matheus/Documentos/workspace/MyAppName/www
-404s will fallback to /index.html
-
-> BETA@1.0.0 start /home/matheus/Documentos/workspace/MyAppName
-> node config && HOST=0.0.0.0 webpack-dev-server
-
-Setting android src to http://10.0.2.2:8080/index.html
-Setting ios src to http://localhost:8080/index.html
- http://0.0.0.0:8080/
-webpack result is served from /
-content is served from /home/matheus/Documentos/workspace/MyAppName/www
-404s will fallback to /index.html
-webpack: wait until bundle finished: /
-
-webpack: Compiled successfully.
->>> Sass is watching for changes. Press Ctrl-C to stop.
-      write src/css/index.css
-      write src/css/index.css.map
-
-> BETA@1.0.0 start /home/matheus/Documentos/workspace/MyAppName
-> node config && HOST=0.0.0.0 webpack-dev-server
-
-Setting android src to http://10.0.2.2:8080/index.html
-Setting ios src to http://localhost:8080/index.html
->>> Change detected to: src/sass/_globals.scss
-      write src/css/index.css
-      write src/css/index.css.map
- http://0.0.0.0:8080/
-webpack result is served from /
-content is served from /home/matheus/Documentos/workspace/MyAppName/www
+content is served from /home/matheus/Documentos/workspace/clickMinuto/App/www
 404s will fallback to /index.html
 webpack: wait until bundle finished: /
->>> Change detected to: src/sass/_globals.scss
-      write src/css/index.css
-      write src/css/index.css.map
 
 webpack: Compiled successfully.
 webpack: Compiling...
-webpack: wait until bundle finished: /cordova.js
 
 webpack: Compiled successfully.
-
-> BETA@1.0.0 start /home/matheus/Documentos/workspace/MyAppName
-> node config && HOST=0.0.0.0 webpack-dev-server
-
-Setting android src to http://10.0.2.2:8080/index.html
-Setting ios src to http://localhost:8080/index.html
- http://0.0.0.0:8080/
-webpack result is served from /
-content is served from /home/matheus/Documentos/workspace/MyAppName/www
-404s will fallback to /index.html
-webpack: wait until bundle finished: /
-
-webpack: Compiled successfully.
->>> Sass is watching for changes. Press Ctrl-C to stop.
-
-> BETA@1.0.0 start /home/matheus/Documentos/workspace/MyAppName
-> node config && HOST=0.0.0.0 webpack-dev-server
-
-Setting android src to http://10.0.2.2:8080/index.html
-Setting ios src to http://localhost:8080/index.html
- http://0.0.0.0:8080/
-webpack result is served from /
-content is served from /home/matheus/Documentos/workspace/MyAppName/www
-404s will fallback to /index.html
-webpack: wait until bundle finished: /index.html
-
-webpack: Compiled successfully.
->>> Sass is watching for changes. Press Ctrl-C to stop.
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+consign v0.1.6 Initialized in /home/matheus/Documentos/workspace/clickMinuto/Serve
++ ./server/routes/leilao.js
++ ./server/routes/leiloes.js
++ ./server/routes/pagamento.js
++ ./server/routes/usuario.js
++ ./config/dbConnection.js
++ ./config/jwt.js
++ ./config/globals.js
++ ./config/cKeys.js
++ ./config/BLOW.js
++ ./server/models/mongodb.js
++ ./server/controllers/cielo.js
++ ./server/controllers/leiloes.js
++ ./server/controllers/pagamento.js
++ ./server/controllers/usuario.js
+SERVER ON-LINE
