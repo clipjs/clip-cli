@@ -9,14 +9,14 @@
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/despossivel/projetoSemNome.git"
+    "url": "git+https://github.com/clipjs/clipjs.github.io/blob/master/README.md"
   },
   "author": "Matheus H. Brito @despossivel",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/despossivel/projetoSemNome/issues"
+    "url": "http://clipjs.github.io"
   },
-  "homepage": "https://github.com/despossivel/projetoSemNome#readme",
+  "homepage": "http://clipjs.github.io",
   "preferGlobal": "true",
   "dependencies": {
     "child_process": "^1.0.2",
