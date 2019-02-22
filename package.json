@@ -9,7 +9,7 @@
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/clipjs/clipjs.github.io/blob/master/README.md"
+    "url": "https://github.com/clipjs/clipjs.github.io"
   },
   "author": "Matheus H. Brito @despossivel",
   "license": "ISC",
