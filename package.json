@@ -1,7 +1,7 @@
 {
-  "name": "Clip",
-  "version": "1.0.0",
-  "description": "Create a simple global module with Nodejs",
+  "name": "clip-cli",
+  "version": "0.0.2",
+  "description": "Crie ambientes de desenvolvimento com o CLIP, e inicie tudo muito rápido!",
   "main": "./lib/index.js",
   "bin": {
     "clip": "./bin/clip.js"
@@ -9,18 +9,17 @@
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/despossivel/projetoSemNome.git"
+    "url": "https://github.com/clipjs/clipjs.github.io"
   },
   "author": "Matheus H. Brito @despossivel",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/despossivel/projetoSemNome/issues"
+    "url": "http://clipjs.github.io"
   },
-  "homepage": "https://github.com/despossivel/projetoSemNome#readme",
+  "homepage": "http://clipjs.github.io",
   "preferGlobal": "true",
   "dependencies": {
     "child_process": "^1.0.2",
-    "fs": "0.0.1-security",
-    "mongodb": "^3.1.4"
+    "fs": "0.0.1-security"
   }
 }
