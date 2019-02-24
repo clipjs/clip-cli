@@ -1,6 +1,6 @@
 {
   "name": "clip-cli",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Crie ambientes de desenvolvimento com o CLIP, e inicie tudo muito rápido!",
   "main": "./lib/index.js",
   "bin": {

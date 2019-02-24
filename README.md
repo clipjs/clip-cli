@@ -3,13 +3,11 @@
 > Agrupador e Gereciador de Console 
 > Inicie toda familia React, Sass ou Docker e qualquer outro serviço necessário no ambiente de desenvolvimento do seu projeto.
 
-## Command-line
+### Requisitos
 
-### Requirements
-
-- [Install node.js](http://nodejs.org/) version `>=4.0.0`
+- [Instale node.js](http://nodejs.org/) versão `>=4.0.0`
  
-### Install
+### Instalação
 
     $ npm i -g clip-cli
 
