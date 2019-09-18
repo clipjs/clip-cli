@@ -39,6 +39,4 @@
    --run                    Subir scripts de um projeto
    -h, --help               output usage information
 
-      
-   
 ###### [@despossivel](https://instagram.com/despossivel) 
