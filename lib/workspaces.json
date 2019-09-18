@@ -1,1 +1,1 @@
-[]
+[{"nome":"deliveri","scripts":[{"diretorio":"/home/matheus/Documentos/workspace/deliveri.com.br/api.deliveri.com.br","comando":"nodemon"},{"diretorio":"/home/matheus/Documentos/workspace/deliveri.com.br/marketplace","comando":"npm run start"},{"diretorio":"/home/matheus/Documentos/workspace/deliveri.com.br/marketplace","comando":"npm run sass"},{"diretorio":"teste","comando":"pwd"},{"diretorio":"teste","comando":"pwd"}]}]
