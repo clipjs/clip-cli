@@ -25,7 +25,7 @@
   },
   "scripts": {
     "test": "cd ./lib && mocha",
-    "installDev":"sudo npm -g install",
-    "publish":"npm login && npm publish"
+    "installDev": "sudo npm -g install",
+    "publish": "npm login && npm publish"
   }
 }
