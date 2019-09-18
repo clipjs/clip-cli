@@ -13,11 +13,12 @@
 
 ### Começando
 
-    $ clip config <nome ambiente> <diretorio projeto> <comando do serviço>    # Para criar um novo ambiente ou adicionar comandos a um ambiente já criado
+    $ clip -a --nome deliveri --diretorio "teste" --comando "nodemon"   
+    # Para criar um novo ambiente ou adicionar comandos a um ambiente já criado
  
 ### Como usar
 
-    Uso: clip run <nome ambiente> 
+    Uso: clip --run --nome deliveri
 
     Description:
 
@@ -26,11 +27,18 @@
 
     Comandos:
 
-      config <nome ambiente> <diretorio projeto> <comando do serviço>  criar um novo ambiente ou adicionar comandos a um ambiente já criado
-      run <nome ambiente>                                              iniciar um ambiente
-      list                                                             listar todos os ambientes e seus comandos
-      edit <nome ambiente>                                             editar um ambiente
-      remove <nome ambiente>                                           remover um ambiente
+   -V, --version            output the version number
+   -a, --adicionar          add comando
+   -n, --nome [value]       Nome do projeto
+   -d, --diretorio [value]  Diretorio do projeto
+   -c, --comando [value]    Comando a ser iniciado ou execultado
+   -nc, --novoComando       Adicionar um novo comando a um projeto já salvo
+   -l, --listar             Listar um projeto
+   -rc, --removerComando    Remover um comando do projeto
+   -r, --remover            Remover um projeto
+   --run                    Subir scripts de um projeto
+   -h, --help               output usage information
+
       
    
 ###### [@despossivel](https://instagram.com/despossivel) 

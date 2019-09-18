@@ -24,6 +24,8 @@
     "fs": "0.0.1-security"
   },
   "scripts": {
-    "test":"cd ./lib && mocha"
+    "test": "cd ./lib && mocha",
+    "installDev":"sudo npm -g install",
+    "publish":"npm login && npm publish"
   }
 }
