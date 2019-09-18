@@ -27,5 +27,8 @@
     "test": "cd ./lib && mocha",
     "installDev": "sudo npm -g install",
     "publish": "npm login && npm publish"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.0"
   }
 }
