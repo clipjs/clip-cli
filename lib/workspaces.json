@@ -1,1 +1,11 @@
-[{"nome":"deliveri","scripts":[{"diretorio":"teste","comando":"nodemon"}]}]
+[
+    {
+        "nome": "deliveri",
+        "scripts": [
+            {
+                "diretorio": "/home/matheus/Documentos/workspace/deliveri.com.br/api.deliveri.com.br",
+                "comando": "nodemon"
+            }
+        ]
+    }
+]

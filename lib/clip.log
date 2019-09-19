@@ -1,0 +1,170 @@
+[33m[nodemon] 1.19.1[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node index.js`[39m
+consign v0.1.6 Initialized in /home/matheus/Documentos/workspace/deliveri.com.br/api.deliveri.com.br
++ ./server/routes/coletor.js
++ ./server/routes/entregador.js
++ ./server/routes/estabelecimento.js
++ ./server/routes/estabelecimentos.js
++ ./server/routes/pagamento.js
++ ./server/routes/uploads.js
++ ./server/routes/usuario.js
++ ./config/dbConnection.js
++ ./config/jwt.js
++ ./config/cielo.js
++ ./config/globals.js
++ ./config/BLOW.js
++ ./server/models/mongodb.js
++ ./server/controllers/coletor.js
++ ./server/controllers/entregador.js
++ ./server/controllers/estabelecimento.js
++ ./server/controllers/estabelecimentos.js
++ ./server/controllers/pagamento.js
++ ./server/controllers/usuario.js
++ ./server/controllers/utils.js
++ ./server/services/OneSignal.js
++ ./server/services/mail.js
++ ./server/services/mails/templates/agradecerCompra.js
++ ./server/services/mails/templates/basic/cabecalho.js
++ ./server/services/mails/templates/basic/rodape.js
++ ./server/services/mails/templates/confirmacaoPagamentoPedido.js
++ ./server/services/mails/templates/confirmarConta.js
++ ./server/services/mails/templates/recuperarSenha.js
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[33m[nodemon] 1.19.1[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node index.js`[39m
+consign v0.1.6 Initialized in /home/matheus/Documentos/workspace/deliveri.com.br/api.deliveri.com.br
++ ./server/routes/coletor.js
++ ./server/routes/entregador.js
++ ./server/routes/estabelecimento.js
++ ./server/routes/estabelecimentos.js
++ ./server/routes/pagamento.js
++ ./server/routes/uploads.js
++ ./server/routes/usuario.js
++ ./config/dbConnection.js
++ ./config/jwt.js
++ ./config/cielo.js
++ ./config/globals.js
++ ./config/BLOW.js
++ ./server/models/mongodb.js
++ ./server/controllers/coletor.js
++ ./server/controllers/entregador.js
++ ./server/controllers/estabelecimento.js
++ ./server/controllers/estabelecimentos.js
++ ./server/controllers/pagamento.js
++ ./server/controllers/usuario.js
++ ./server/controllers/utils.js
++ ./server/services/OneSignal.js
++ ./server/services/mail.js
++ ./server/services/mails/templates/agradecerCompra.js
++ ./server/services/mails/templates/basic/cabecalho.js
++ ./server/services/mails/templates/basic/rodape.js
++ ./server/services/mails/templates/confirmacaoPagamentoPedido.js
++ ./server/services/mails/templates/confirmarConta.js
++ ./server/services/mails/templates/recuperarSenha.js
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[33m[nodemon] 1.19.1[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node index.js`[39m
+consign v0.1.6 Initialized in /home/matheus/Documentos/workspace/deliveri.com.br/api.deliveri.com.br
++ ./server/routes/coletor.js
++ ./server/routes/entregador.js
++ ./server/routes/estabelecimento.js
++ ./server/routes/estabelecimentos.js
++ ./server/routes/pagamento.js
++ ./server/routes/uploads.js
++ ./server/routes/usuario.js
++ ./config/dbConnection.js
++ ./config/jwt.js
++ ./config/cielo.js
++ ./config/globals.js
++ ./config/BLOW.js
++ ./server/models/mongodb.js
++ ./server/controllers/coletor.js
++ ./server/controllers/entregador.js
++ ./server/controllers/estabelecimento.js
++ ./server/controllers/estabelecimentos.js
++ ./server/controllers/pagamento.js
++ ./server/controllers/usuario.js
++ ./server/controllers/utils.js
++ ./server/services/OneSignal.js
++ ./server/services/mail.js
++ ./server/services/mails/templates/agradecerCompra.js
++ ./server/services/mails/templates/basic/cabecalho.js
++ ./server/services/mails/templates/basic/rodape.js
++ ./server/services/mails/templates/confirmacaoPagamentoPedido.js
++ ./server/services/mails/templates/confirmarConta.js
++ ./server/services/mails/templates/recuperarSenha.js
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[33m[nodemon] 1.19.1[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node index.js`[39m
+consign v0.1.6 Initialized in /home/matheus/Documentos/workspace/deliveri.com.br/api.deliveri.com.br
++ ./server/routes/coletor.js
++ ./server/routes/entregador.js
++ ./server/routes/estabelecimento.js
++ ./server/routes/estabelecimentos.js
++ ./server/routes/pagamento.js
++ ./server/routes/uploads.js
++ ./server/routes/usuario.js
++ ./config/dbConnection.js
++ ./config/jwt.js
++ ./config/cielo.js
++ ./config/globals.js
++ ./config/BLOW.js
++ ./server/models/mongodb.js
++ ./server/controllers/coletor.js
++ ./server/controllers/entregador.js
++ ./server/controllers/estabelecimento.js
++ ./server/controllers/estabelecimentos.js
++ ./server/controllers/pagamento.js
++ ./server/controllers/usuario.js
++ ./server/controllers/utils.js
++ ./server/services/OneSignal.js
++ ./server/services/mail.js
++ ./server/services/mails/templates/agradecerCompra.js
++ ./server/services/mails/templates/basic/cabecalho.js
++ ./server/services/mails/templates/basic/rodape.js
++ ./server/services/mails/templates/confirmacaoPagamentoPedido.js
++ ./server/services/mails/templates/confirmarConta.js
++ ./server/services/mails/templates/recuperarSenha.js
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting child process[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting child process[39m
+[32m[nodemon] starting `node index.js`[39m
+consign v0.1.6 Initialized in /home/matheus/Documentos/workspace/deliveri.com.br/api.deliveri.com.br
++ ./server/routes/coletor.js
++ ./server/routes/entregador.js
++ ./server/routes/estabelecimento.js
++ ./server/routes/estabelecimentos.js
++ ./server/routes/pagamento.js
++ ./server/routes/uploads.js
++ ./server/routes/usuario.js
++ ./config/dbConnection.js
++ ./config/jwt.js
++ ./config/cielo.js
++ ./config/globals.js
++ ./config/BLOW.js
++ ./server/models/mongodb.js
++ ./server/controllers/coletor.js
++ ./server/controllers/entregador.js
++ ./server/controllers/estabelecimento.js
++ ./server/controllers/estabelecimentos.js
++ ./server/controllers/pagamento.js
++ ./server/controllers/usuario.js
++ ./server/controllers/utils.js
++ ./server/services/OneSignal.js
++ ./server/services/mail.js
++ ./server/services/mails/templates/agradecerCompra.js
++ ./server/services/mails/templates/basic/cabecalho.js
++ ./server/services/mails/templates/basic/rodape.js
++ ./server/services/mails/templates/confirmacaoPagamentoPedido.js
++ ./server/services/mails/templates/confirmarConta.js
++ ./server/services/mails/templates/recuperarSenha.js
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
