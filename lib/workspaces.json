@@ -3,8 +3,16 @@
         "nome": "deliveri",
         "scripts": [
             {
-                "diretorio": "/home/matheus/Documentos/workspace/deliveri.com.br/api.deliveri.com.br",
+                "diretorio": "/home/matheus/Documentos/apps_experimentais/BETAA/api.deliveri.com.br",
                 "comando": "nodemon"
+            },
+            {
+                "diretorio": "/home/matheus/Documentos/apps_experimentais/BETAA/marketplace",
+                "comando": "npm start"
+            },
+            {
+                "diretorio": "/home/matheus/Documentos/apps_experimentais/BETAA/marketplace",
+                "comando": "npm run sass"
             }
         ]
     }
