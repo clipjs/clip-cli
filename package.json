@@ -1,7 +1,7 @@
 {
   "name": "clip-cli",
-  "version": "0.0.4",
-  "description": "Crie ambientes de desenvolvimento com o CLIP, e inicie tudo muito rápido!",
+  "version": "0.0.5",
+  "description": "Agrupador e Gereciador de Console",
   "main": "./lib/index.js",
   "bin": {
     "clip": "./bin/clip.js"
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "https://github.com/clipjs/clipjs.github.io"
   },
-  "author": "Matheus H. Brito @despossivel",
+  "author": "Matheus Brito @despossivel",
   "license": "ISC",
   "bugs": {
     "url": "http://clipjs.github.io"
