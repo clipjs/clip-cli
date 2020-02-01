@@ -1,0 +1,69 @@
+yarn install v1.17.3
+yarn run v1.17.3
+$ react-native start
+[1/4] Resolving packages...
+[33m[nodemon] 1.19.1[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node index.js`[39m
+consign v0.1.6 Initialized in /home/matheus/Documentos/workspace/API-express-mongoose-jest
++ ./src/controllers/Auth.js
++ ./src/controllers/CartaoFidelidade.js
++ ./src/controllers/Estabelecimento.js
++ ./src/controllers/HotSpot.js
++ ./src/controllers/MetodosDePagamento.js
++ ./src/controllers/Payments.js
++ ./src/controllers/Recompensa.js
++ ./src/controllers/Uploads.js
++ ./src/controllers/Usuario.js
++ ./src/models/CartaoFidelidade.js
++ ./src/models/Estabelecimento.js
++ ./src/models/Hotspot.js
++ ./src/models/MetodosDePagamento.js
++ ./src/models/Payment.js
++ ./src/models/Recompensa.js
++ ./src/models/Usuario.js
++ ./src/services/Cielo.js
++ ./src/services/Onesignal.js
++ ./src/services/SMTP.js
++ ./src/middlewares/Jwt.js
++ ./src/middlewares/expressValidation.js
++ ./src/middlewares/multer.js
++ ./src/config/cielo.js
++ ./src/config/connection.js
++ ./src/utils/Response.js
++ ./src/utils/Treatment.js
++ ./src/utils/blowfish.js
++ ./src/routes/CartaoFidelidade.js
++ ./src/routes/Estabelecimento.js
++ ./src/routes/HotSpot.js
++ ./src/routes/MetodosDePagamento.js
++ ./src/routes/Payments.js
++ ./src/routes/Recompensa.js
++ ./src/routes/Uploads.js
++ ./src/routes/Usuario.js
++ ./src/routes/auth.js
++ ./src/routes/index.js
+success Already up-to-date.
+Done in 1.06s.
+SERVER ON-LINE NA PORTA 5000
+Mongoose se conectou som sucesso!
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                                                              │
+│  Running Metro Bundler on port 8081.                                         │
+│                                                                              │
+│  Keep Metro running while developing on any JS projects. Feel free to        │
+│  close this tab and run your own Metro instance if you prefer.               │
+│                                                                              │
+│  https://github.com/facebook/react-native                                    │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+Looking for JS files in
+   /home/matheus/Documentos/workspace/pinpper 
+
+::1 - - [01/Feb/2020:01:39:10 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "http://localhost:8081/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36"
+Loading dependency graph, done.
+ BUNDLE  [android, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1197/1197), done.
+
+ LOG  Running "pinpper" with {"rootTag":1}

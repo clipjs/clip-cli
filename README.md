@@ -17,7 +17,7 @@
     $ clip --adicionar --nome deliveri --diretorio "/home/deliveri/api" --comando "nodemon"   
     # Para criar um novo ambiente 
     
-    $ clip --novoComando --nome deliveri --diretorio "/home/deliveri/api" --comando "mocha"
+    $ clip --nome pinpper --novoComando --diretorio /home/matheus/Documentos/workspace/pinpper --comando "yarn start"
     #Para adicionar comandos a um ambiente já criado
  
 ### Como iniciar um ambiente
@@ -43,26 +43,10 @@
 
 
 
-
-    Description:
+###### Description:
 
      Em todo projeto existe a necessidade de "subir" serviços de ferramentas como reactjs, sass, Phonegap serve, Nodejs do lado servidor e varios outros serviços ou ferramentas.
     E sempre que preciso iniciar o ambiente de desenvolvimento o desenvolvedor tem a tarefa de subir serviço por serviço de forma manual, sendo assim o Projeto Clip nasceu, com o objetivo de automatizar e organizar serviços.
 
-    Comandos:
-
-Options:
-  -V, --version        output the version number
-  --adicionar          add comando
-  --nome [value]       Nome do projeto
-  --diretorio [value]  Diretorio do projeto
-  --comando [value]    Comando a ser iniciado ou execultado
-  --novoComando        Adicionar um novo comando a um projeto já salvo
-  --listar             Listar um projeto
-  --removerComando     Remover um comando do projeto
-  --remover            Remover um projeto
-  --editor [value]     Abrir seu editor de codigo nos diretorios do projeto
-  --run                Subir scripts de um projeto
-  -h, --help           output usage information
 
 ###### [@despossivel](https://instagram.com/despossivel) 
